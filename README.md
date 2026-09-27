@@ -97,6 +97,12 @@ Análise exploratória de microdados de mortalidade do estado de SP em 2021, int
 - **Tableau Business Intelligence Analyst**
 - **Data Analytics and Databases on AWS**
 
+### 📚 Cursos de Aperfeiçoamento & Imersões
+- **Introdução à Análise de Dados com Microsoft Power BI** — Fundação Bradesco
+- **Microsoft Excel** — Fundação Bradesco
+- **Imersão Dados com Python II** — Alura
+- **Imersão Dev com Google Gemini** — Alura
+
 ---
 
 ## 📬 Vamos nos conectar?
