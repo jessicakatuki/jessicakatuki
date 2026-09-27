@@ -72,15 +72,6 @@ Análise exploratória de microdados de mortalidade do estado de SP em 2021, int
 
 ---
 
-## 💼 Experiência Profissional
-
-| Período | Cargo | Empresa / Modelo | Principais Atividades |
-| :--- | :--- | :--- | :--- |
-| **09/2024 – Atual** | **Analista de Soluções** | NewEra Tecnologia Inteligente • *Prestação de serviços* | Levantamento de requisitos, modelagem de dados, análise de regras de negócio, métricas de produtos digitais, documentação funcional e validação técnica. |
-| **08/2023 – 08/2024** | **Estagiária de Análise e Desenvolvimento de Sistemas** | NewEra Tecnologia Inteligente | Apoio no ciclo de vida de soluções digitais, modelagem de fluxos de dados, testes de usabilidade e suporte técnico. |
-
----
-
 ## 🎓 Formação Acadêmica e Certificações
 
 ### Formação Acadêmica
