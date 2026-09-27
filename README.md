@@ -26,10 +26,35 @@ Como **Analista de Dados**, atuo transformando dados brutos em soluções práti
 
 | Categoria | Ferramentas / Tecnologias |
 | :--- | :--- |
-| **Linguagens & Consultas** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
-| **Bancos de Dados** | PostgreSQL |
-| **BI & Visualização** | Tableau, Power BI (DAX), Excel |
-| **Ambientes & Ferramentas** | Google Colab, Git/GitHub |
+| **Linguagens e consultas** | Python, SQL |
+| **Bibliotecas Python** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Bancos de dados** | PostgreSQL |
+| **BI e visualização** | Tableau, Power BI (DAX), Excel |
+
+### 🧰 Ambientes e ferramentas
+
+<p>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+  </a>
+</p>
+
+### 🔧 Versionamento
+
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
