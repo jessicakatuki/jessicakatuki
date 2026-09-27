@@ -68,7 +68,7 @@ Análise exploratória de microdados de mortalidade do estado de SP em 2021, int
 - **Visualização:** Dashboard interativo focado em acessibilidade visual e storytelling analítico.
 
 👉 [Visualizar o Dashboard no Tableau Public](https://public.tableau.com/app/profile/jessica.katuki.farias/viz/PanoramadeMortalidadeeSadePblicaSPDataSUS2021/MortalidadeeSadePblicaSoPaulo2021)  
-<!-- 👉 [Ver o Repositório e Documentação no GitHub]() -->
+👉 [Ver o Repositório e Documentação no GitHub](https://github.com/jessicakatuki/panorama-sp-datasus-2021)
 
 ---
 
