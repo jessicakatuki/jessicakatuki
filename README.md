@@ -4,7 +4,7 @@
   <img 
     src="https://raw.githubusercontent.com/jessicakatuki/jessicakatuki/refs/heads/main/coffee-break-transparent.gif" 
     alt="Animação de uma pausa para o café" 
-    width="280"
+    width="380"
   >
 </p>
 
