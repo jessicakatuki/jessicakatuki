@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Jessica Katuki Farias! 🌸</h1>
+<h1 align="center">Olá, sou Jessica Katuki Farias 👋🌸</h1>
 
 <p align="center">
   <img 
