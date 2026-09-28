@@ -93,6 +93,7 @@ Análise exploratória de microdados de mortalidade do estado de SP em 2021, int
 - **Microsoft Excel** — Fundação Bradesco
 - **Imersão Dados com Python II** — Alura
 - **Imersão Dev com Google Gemini** — Alura
+- **Imersão Engenharia de Dados** — Alura
 
 ---
 
