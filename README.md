@@ -105,5 +105,9 @@ Análise exploratória de microdados de mortalidade do estado de SP em 2021, int
 ---
 
 <p align="center">
-  🌸✨ <i>Obrigada pela visita!</i> ✨🌸
+  <img 
+    src="https://raw.githubusercontent.com/jessicakatuki/jessicakatuki/refs/heads/main/obrigadaPelaVisita.jpeg" 
+    alt="Obrigada pela visita"
+    width="380"
+  >
 </p>
