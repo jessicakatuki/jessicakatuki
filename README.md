@@ -2,8 +2,8 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/jessicakatuki/jessicakatuki/refs/heads/main/coffee-break-transparent.gif" 
-    alt="Animação de uma pausa para o café" 
+    src="https://raw.githubusercontent.com/jessicakatuki/jessicakatuki/refs/heads/main/cartaoDeVisita.gif" 
+    alt="Cartão de visita animado" 
     width="380"
   >
 </p>
